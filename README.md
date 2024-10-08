@@ -4,9 +4,9 @@
 
 [ 详细文档点击这里 ](https://github.com/thx/gogocode/blob/main/docs/specification/basic.zh.md)
 
-## What is GoGoCode?萨达实打实大师大师撒大叔大婶
+## What is GoGoCode?我在github上修改了，再pull回去。
 
-[中文 README](README-cn.md)12气温气温气温123
+[中文 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
 
